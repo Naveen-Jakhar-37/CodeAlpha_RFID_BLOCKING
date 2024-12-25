@@ -47,5 +47,5 @@ The script runs the RFID blocking system simulation with a default of 5 scans. T
 ## Logging:
 Unauthorized scans are logged in a file named rfid_log.txt.
 
-## Dharmaveer Bhaskar:
+## Naveen Jakhar
 
